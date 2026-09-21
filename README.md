@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JDBenson935
 - 👀 I’m interested in Money & time freedom
-- 🌱 I’m currently learning Python with the view to get into Cyber Security
-- 💞️ I’m looking to collaborate on really simple things or really complex & flashy things as long as I can just lurk in the background
-- 📫 How to reach me her is good
+- 🌱 I’m currently a change management consultant at Strada
+- 💞️ I’m looking to learn & improve my life
+- 📫 How to reach me here is good
 
 <!---
 JDBenson935/JDBenson935 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
